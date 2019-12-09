@@ -1,5 +1,8 @@
 # vue全家桶 🍄商城 项目
 
+ <img src="https://github.com/fffffabulous/tmall/blob/master/d.jpeg" style="margin-left:45px" alt="播放器" align=center />
+ <img src="https://github.com/fffffabulous/tmall/blob/master/d.jpeg" style="margin-left:45px" alt="播放器" align=center />
+ <img src="https://github.com/fffffabulous/tmall/blob/master/d.jpeg" style="margin-left:45px" alt="播放器" align=center />
 
 
 ![](https://github.com/fffffabulous/tmall/blob/master/d.jpeg "播放器")
