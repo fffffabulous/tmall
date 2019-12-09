@@ -2,13 +2,13 @@
 <br/>
 <br/>
 <br/>
-**首页
+**首页**
 ![](https://github.com/fffffabulous/tmall/blob/master/d.jpeg "播放器")
-**分类
+**分类**
 ![](https://github.com/fffffabulous/tmall/blob/master/c.jpeg "播放器")
-**详情
+**详情**
 ![](https://github.com/fffffabulous/tmall/blob/master/b.jpeg "播放器")
-**购物车
+**购物车**
 ![](https://github.com/fffffabulous/tmall/blob/master/a.jpeg "播放器")
 
 ## 安装相关依赖
